@@ -10,7 +10,7 @@ fun main() {
 
         clearConsole()
 
-        println("Personal Expense Tracker\n")
+        println("Kotracker | Expense tracker\n")
         println("1. Add expense")
         println("2. Show all expenses")
         println("3. Show total expenses")
