@@ -7,7 +7,7 @@ The app runs in the terminal and lets users add, view, edit, and delete expenses
 
 This project focuses on learning Kotlin fundamentals like classes, data classes, collections, loops, conditionals, and simple modular structure.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/vm1Iq1TpzVo)
 
 # Development Environment
 
